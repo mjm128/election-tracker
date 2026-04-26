@@ -1,73 +1,104 @@
 # 🗳️ Personal Election & Voting Tracker
 
-A structured repository to maintain a historical, organized record of my election research, ballot proposition analysis, and final voting decisions. 
+A structured repository to maintain a historical, organized record of election research, ballot proposition analysis, and voting strategy. 
 
-This system cuts through the noise of election season by separating objective ballot data from personal strategy. By Election Day, this ensures I have a fully researched, philosophically grounded voting plan ready to transfer directly to my official ballot.
+This system cuts through the noise of election season by strictly separating objective ballot data from personal strategy. It scales to act as a definitive voting dashboard for my own ballots, while providing a cleanly isolated framework for analyzing and generating tailored recommendations for friends, family, and network requests across any jurisdiction.
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ Structure
 
-The repository is organized chronologically by year, followed by the exact date and type of the election. 
+To prevent data overlap (e.g., mixing up candidates from different congressional districts or county lines), the repository is strictly isolated by **Date, Election Type, State-City, and Intent**. 
+
+* `_Personal`: My actual, legal voting jurisdiction. This is the only place a `vote.md` file lives.
+* `_Analysis`: Research conducted for external districts. Used to generate shareable guides.
 
 ```text
 election-tracker/
-├── README.md                           # This file (Repository overview & instructions)
+├── README.md                                         # This file (Repository overview & instructions)
 └── 2026/
-    ├── 06-02-2026_Primary/             # Folder for the June Primary
-    │   ├── election.md                 # Unbiased overview of the ballot and key dates
-    │   ├── candidates.md               # Detailed research on federal, state, and county candidates
-    │   ├── propositions.md             # Pros, cons, and funding research for state/local measures
-    │   ├── reasoning.md                # [OPTIONAL] Long-form logic or complex fiscal analysis 
-    │   └── vote.md                     # My final decisions and concise ideological rationale
+    ├── 06-02-2026_Primary_CA-Irvine_Personal/        # MY LEGAL BALLOT
+    │   ├── election.md                               # Unbiased overview of my ballot
+    │   ├── candidates.md                             # Research on candidates in my district
+    │   ├── propositions.md                           # Pros/cons for state and Irvine measures
+    │   ├── reasoning.md                              # [OPTIONAL] Complex ideological balancing
+    │   ├── vote.md                                   # My final personal decisions (Source of Truth)
+    │   └── recommendations/                          # [OPTIONAL] Export for my household
+    │       └── vote_recommendation_jocelyn.md        # Tailored summary of our household's plan
     │
-    └── 11-03-2026_General/             # Folder for the November General Election
-        ├── election.md
-        ├── candidates.md
-        ├── propositions.md
-        ├── reasoning.md                # [OPTIONAL]
-        └── vote.md
+    ├── 06-02-2026_Primary_CA-LaMirada_Analysis/      # EXTERNAL NETWORK REQUEST
+    │   ├── election.md                               # Overview of the La Mirada/LA County ballot
+    │   ├── candidates.md                             # Candidates strictly for this specific district
+    │   └── recommendations/                          
+    │       └── vote_recommendation_brother.md        # Specific picks & rationale tailored to his ballot
+    │
+    ├── 06-02-2026_Primary_CA-Bellflower_Analysis/    # EXTERNAL NETWORK REQUEST
+    │   ├── election.md                               
+    │   ├── candidates.md                             
+    │   └── recommendations/                          
+    │       └── vote_recommendation_colleague.md      # Specific picks & rationale for a Bellflower voter
+    │
+    ├── 11-03-2026_General_CA-Irvine_Personal/        # MY LEGAL BALLOT
+    │   ├── election.md                               
+    │   ├── candidates.md                             
+    │   ├── propositions.md                           
+    │   ├── vote.md                                   
+    │   └── recommendations/                          
+    │       └── vote_recommendation_jocelyn.md        
+    │
+    └── 11-03-2026_General_TX-Austin_Analysis/        # OUT-OF-STATE NETWORK REQUEST
+        ├── election.md                               
+        ├── candidates.md                             
+        └── recommendations/                          
+            └── vote_recommendation_friend.md         
 ```
 
 ---
 
 ## 📄 Core Files Explained
 
-For every election folder, the workflow utilizes distinct documents to establish a clean separation of concerns.
+For every election directory, the workflow utilizes distinct documents to establish a clean separation of concerns and ensure data portability.
 
 ### 1. `election.md` (The Dashboard)
-An objective, high-level overview of exactly what is on the ballot. 
-* **Contains:** Key election deadlines, mail-in dates, a list of all offices up for election, and a summary of the state/local propositions. 
-* **Purpose:** Acts as the landing page for that specific election cycle so I know exactly what needs to be researched.
+An objective, high-level overview of exactly what is on that specific ballot. 
+* **Contains:** Key election deadlines, a list of all offices up for election, and a summary of propositions. 
+* **Purpose:** Acts as the landing page for that exact geographic cycle.
 
 ### 2. `candidates.md` (The Data)
 The research scratchpad for individuals running for office.
-* **Contains:** Tables listing candidates from the sample ballot, party affiliations, professional backgrounds, and links to debates or policy platforms.
-* **Purpose:** A place to compile objective data, track challengers vs. incumbents, and monitor endorsements.
+* **Contains:** Tables listing candidates, party affiliations, professional backgrounds, and links to platforms.
+* **Purpose:** To compile objective data without cluttering final decisions. 
 
 ### 3. `propositions.md` (The Policy Breakdown)
 The research scratchpad for state and local measures.
 * **Contains:** Title, summary, fiscal impact, major financial backers, and key endorsements.
-* **Purpose:** To decode confusing ballot language and track the actual tax, regulatory, or zoning impacts of each measure.
+* **Purpose:** To decode ballot language and track actual tax or regulatory impacts.
 
-### 4. `vote.md` (The Final Plan)
-My final decisions and the strategic reasoning behind them.
-* **Contains:** The specific candidate or measure I am voting for, alongside a concise rationale evaluated through my specific political/ideological lens. 
-* **Purpose:** This is the exact document I open when I sit down to bubble in my official mail-in ballot. It serves as the definitive source of truth.
+### 4. `vote.md` (The Final Personal Plan)
+My personal, final decisions and the strategic reasoning behind them. 
+* **Crucial Note:** This file is strictly for `_Personal` directories. It is NEVER included in `_Analysis` folders.
+* **Contains:** The specific candidate or measure I am voting for, alongside a concise ideological rationale. 
+* **Purpose:** This is the document I use to fill out my official mail-in or in-person ballot.
 
 ### 5. `reasoning.md` (Optional: The Deep Logic)
 An overflow document for highly complex decisions.
-* **Contains:** Long-form thoughts, complex ideological balancing (e.g., weighing Libertarian vs. Conservative priorities), or extensive financial modeling for complicated tax propositions.
-* **Purpose:** To keep `vote.md` clean and scannable. If a decision requires a multi-paragraph explanation or deep philosophical breakdown, it is written here, and `vote.md` simply links to it.
+* **Contains:** Long-form thoughts, multi-step strategic logic (e.g., jungle primary vote-splitting), or extensive financial modeling.
+* **Purpose:** To keep `vote.md` clean and scannable. 
+
+### 6. `recommendations/vote_recommendation_*.md` (The Shareable Exports)
+A dedicated directory holding clean, sanitized summaries designed to be shared.
+* **Contains:** Individual markdown files tailored to a specific person or demographic. Features top-level picks, brief rationales, and coordination instructions.
+* **Purpose:** Allows me to provide customized, isolated guidance based on a requester's exact jurisdiction and political alignment. For `_Analysis` directories, these files act as the ultimate output.
 
 ---
 
 ## ⚙️ Standard Workflow
 
-1. **Setup (1-2 Months Out):** When the sample ballot arrives, create the new `year/mm-dd-yyyy_ElectionType/` folder.
-2. **Populate `election.md`:** Copy all offices and propositions from the sample ballot into the overview file. 
-3. **Research Phase:** Over the following weeks, fill in `candidates.md` and `propositions.md` as information becomes available.
-4. **Draft Logic (If Needed):** Use `reasoning.md` to map out difficult decisions, such as strategic vote-splitting in jungle primaries or evaluating multi-layered propositions.
-5. **Lock In `vote.md`:** Finalize decisions and document the concise rationale for historical reference. 
-6. **Cast Ballot:** Use `vote.md` to fill out the official ballot. Drop it in the mail or at a local drop box.
-7. **Post-Election Audit:** Track the ballot online to ensure it was counted, note the final election results, and archive the folder.
+1. **Setup:** Create the new `YYYY/MM-DD-YYYY_ElectionType_State-City_Intent/` folder. 
+2. **Populate `election.md`:** Pull all offices and propositions from the exact sample ballot for that jurisdiction. 
+3. **Research Phase:** Fill in `candidates.md` and `propositions.md`.
+4. **Draft Logic:** Use `reasoning.md` to map out difficult decisions.
+5. **Lock In Decisions:** * If `_Personal`: Finalize my `vote.md`.
+    * If `_Analysis`: Skip directly to step 6.
+6. **Generate Exports:** Create targeted `vote_recommendation_[target].md` files inside the `recommendations/` folder to fulfill requests.
+7. **Execute:** Cast my personal vote, monitor the results, and archive the directory.
