@@ -35,6 +35,6 @@ This document contains my final candidate selections and the core rationale for 
 ---
 
 ## 📝 Next Steps
-- [ ] Cross-reference **Judge Office No. 13** with the local Lincoln Club or California Republican Lawyers Association voter guides before filling it out.
-- [ ] Confirm your network's cell phone randomizer deployment for the **Governor** race.
 - [ ] Securely sign, seal, and drop off the mail-in ballot at an official OC drop box, or vote in person before June 2.
+- [ ] Voted on [replace]
+- [ ] Check results and plan for general election.
