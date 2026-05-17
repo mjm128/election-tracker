@@ -2,7 +2,7 @@
 
 **Election:** Statewide Direct Primary  
 **Date:** June 2, 2026  
-**Political Lens:** Pure Conservative / Libertarian (Strictly No Former Democrats)
+**Political Lens:** Conservative / Libertarian
 
 This document contains my final candidate selections and the core rationale for each vote, focusing on free markets, fiscal restraint, limited government interference, and constitutional originalism.
 
