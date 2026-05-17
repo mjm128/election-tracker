@@ -2,7 +2,7 @@
 
 **Election:** Statewide Direct Primary  
 **Date:** June 2, 2026  
-**Political Lens:** Conservative / Libertarian
+**Political Lens:** Pure Conservative / Libertarian (Strictly No Former Democrats)
 
 This document contains my final candidate selections and the core rationale for each vote, focusing on free markets, fiscal restraint, limited government interference, and constitutional originalism.
 
@@ -12,19 +12,19 @@ This document contains my final candidate selections and the core rationale for 
 
 | Office | My Vote | Party | Core Rationale |
 | :--- | :--- | :--- | :--- |
-| **Governor** | **Steve Hilton** <br>*(Or Chad Bianco)* | Rep | **Vote-Splitting Strategy:** To navigate the top-two primary, our network is using the last digit of our cell phone numbers to distribute votes across the top conservative candidates: <br>• **EVEN (0, 2, 4, 6, 8):** Vote Hilton <br>• **ODD (1, 3, 5, 7, 9):** Vote Bianco <br><br>**Preference & Polling:** My personal preference is Hilton (focused on deregulation and market-driven solutions). If you are opting out of the randomizer, default your vote to him. He is currently leading the conservative field in the latest RealClearPolling data. |
-| **Lieutenant Governor** | **Gloria J. Romero** | Rep | Former Democrat who switched parties; strong advocate for school choice and charter schools. |
-| **Secretary of State** | **Donald P. Wagner** | Rep | Current OC Supervisor; long track record of conservative governance in Orange County and Irvine. |
-| **State Controller** | **Herb Morgan** | Rep | Investment executive background; positions focus on auditing state spending and fiscal restraint. |
-| **State Treasurer** | **David Serpa** | Rep | Focuses on economic transparency and minimizing state debt. |
-| **Attorney General** | **Michael Gates** | Rep | Current Huntington Beach City Attorney; known for aggressively challenging state overreach and defending local municipal control. |
-| **Insurance Commissioner** | **Robert P. Howell** | Rep | Focuses on free-market solutions for the insurance industry rather than heavy state mandates. |
+| **Governor** | **Steve Hilton** <br>*(Or Chad Bianco)* | Rep | **Vote-Splitting Strategy:** To navigate the top-two primary, our network is using the last digit of our cell phone numbers to distribute votes across the top conservative candidates: <br>• **EVEN (0, 2, 4, 6, 8):** Vote Hilton <br>• **ODD (1, 3, 5, 7, 9):** Vote Bianco <br><br>**Preference & Polling:** Both are lifelong conservatives leading the Republican field. Hilton focuses heavily on small-business deregulation and market-driven solutions. |
+| **Lieutenant Governor** | **David Fennell** | Rep | **Polling Frontrunner:** Leads early primary polling at 18% due to a fractured Democratic field. A lifelong conservative alternative who completely avoids the progressive/Democratic past of other cross-over options. Focuses on supply-side economics. |
+| **Secretary of State** | **Donald P. Wagner** | Rep | Current OC Supervisor; long track record of reliable, lifelong conservative governance in Orange County and Irvine. |
+| **State Controller** | **Herb Morgan** | Rep | Endorsed by the CAGOP. Investment executive background (former CIO); platform targets rigorous auditing of Sacramento spending, reducing waste, and enforcing fiscal restraint. |
+| **State Treasurer** | **Jennifer Hawks** | Rep | **Consolidated Conservative Choice:** Officially backed by the California Republican Party. Facing multiple high-profile Democrats, backing Hawks ensures a consolidated conservative vote to lock in a spot for the general election. |
+| **Attorney General** | **Michael Gates** | Rep | Current Huntington Beach City Attorney; a fierce conservative fighter known for aggressively challenging state overreach and defending local municipal control. |
+| **Insurance Commissioner** | **Robert P. Howell** | Rep | Dedicated conservative activist focusing on free-market, competitive insurance solutions over heavy-handed state mandates. |
 | **Member, State Board of Equalization (Dist. 4)** | **Denis Bilodeau** | Rep | Ensuring fiscal restraint on the BOE is critical for protecting tax-optimized investment strategies and keeping property tax burdens in check. |
-| **U.S. House (CA-47)** | **Jenny Rae Le Roux** | Rep | Entrepreneurial background aligns with free-market economics and fiscal conservatism. *(Alternative: Derrick Michael Reid - Lib)* |
-| **State Assembly (Dist. 73)** | **Urson Russell** | Rep | The sole Republican challenger in the district; platform focuses on lowering taxes and reducing business regulations. |
-| **Judge of the Superior Court (Office No. 13)** | *[ TBD / Pending Review ]* | NP | *Nonpartisan office.* Choice between Ann Cho and Robert Mestman. Both candidates received a **"Well Qualified"** rating from the Orange County Bar Association (OCBA). Need to check local conservative legal group endorsements before marking. |
-| **Judge of the Superior Court (Office No. 41)** | **Ami S. Sagel** | NP | *Nonpartisan office.* Sagel received the highest possible rating of **"Exceptionally Well Qualified"** from the OCBA, whereas her opponent, Charles E. Pell, was rated **"Not Qualified."** Strong alignment with judicial competence and rule-of-law principles. |
-| **Superintendent of Public Instruction** | **Sonja Shaw** | NP | *Nonpartisan office.* Current Chino Valley Unified Board President; nationally recognized for advancing conservative parental rights policies. |
+| **U.S. House (CA-47)** | **Jenny Rae Le Roux** | Rep | **Viable Free-Market Choice:** Entrepreneurial background aligns with fiscal conservatism. FEC data shows she holds the commanding financial and organizational lead over all other primary challengers to Dave Min. *(Alternative: Derrick Michael Reid - Lib)* |
+| **State Assembly (Dist. 73)** | **Urson Russell** | Rep | The sole Republican challenger in the district; platform focuses entirely on lowering taxes and reducing small business regulations. |
+| **Judge of the Superior Court (Office No. 13)** | *[ TBD / Pending Review ]* | NP | *Nonpartisan office.* Choice between Ann Cho and Robert Mestman. Both received "Well Qualified" ratings from the Orange County Bar Association. Check local conservative legal group slates before marking. |
+| **Judge of the Superior Court (Office No. 41)** | **Ami S. Sagel** | NP | *Nonpartisan office.* Sagel received the highest possible rating of **"Exceptionally Well Qualified"** from the OCBA, whereas her opponent was rated **"Not Qualified."** Aligns perfectly with judicial competence and strict constitutional rule-of-law principles. |
+| **Superintendent of Public Instruction** | **Sonja Shaw** | NP | *Nonpartisan office.* Current Chino Valley Unified Board President; nationally recognized for advancing conservative parental rights policies and traditional curriculum standards. |
 | **County Superintendent of Schools** | **Dr. Stefan Bean** | NP | *Nonpartisan office.* Incumbent and strong advocate for school choice, charter schools, and parental rights. <br><br>**Voting Logistics Note:** The progressive challenger on the sample ballot (Jeff Cole) was disqualified by a judge in March for lacking proper credentials. If Bean's name is not pre-printed on the official mail-in ballot due to printing deadlines, use the "Write-In" line to cast the vote for Bean. |
 | **County Supervisor (5th District)** | **Diane Dixon** | NP | *Nonpartisan office.* Current conservative Assemblywoman running to unseat progressive incumbent Katrina Foley. Vital race for shifting the balance of the board back toward fiscal responsibility and local taxpayer protections. |
 | **Assessor** | **Claude Parrish** | NP | *Nonpartisan office.* Incumbent fiscal conservative focused on fair property valuations and strictly defending Prop 13 limits against tax hikes. |
@@ -35,6 +35,6 @@ This document contains my final candidate selections and the core rationale for 
 ---
 
 ## 📝 Next Steps
-- [ ] Make a final decision on **Judge Office No. 13** after consulting the local chapter of the Republican Lawyers Association or the Lincoln Club.
+- [ ] Cross-reference **Judge Office No. 13** with the local Lincoln Club or California Republican Lawyers Association voter guides before filling it out.
 - [ ] Confirm your network's cell phone randomizer deployment for the **Governor** race.
 - [ ] Securely sign, seal, and drop off the mail-in ballot at an official OC drop box, or vote in person before June 2.
