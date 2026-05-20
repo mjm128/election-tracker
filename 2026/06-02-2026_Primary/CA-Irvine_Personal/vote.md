@@ -34,7 +34,9 @@ This document contains my final candidate selections and the core rationale for 
 
 ---
 
-## 📝 Next Steps
+## 📝 Steps
+- [x] Ballot outbound May 4th, 2026
 - [x] Securely sign, seal, and drop off the mail-in ballot at an official OC drop box, or vote in person before June 2.
 - [x] Voted on May 17th, 2026 by Mail in Ballot at Irvine Metrolink Station (Walk-Up) 15215 Barranca Pkwy - Off Ada, On Loop Rd
+- [x] Ballot Accpted May 18th, 2026
 - [ ] Check results and plan for general election.
